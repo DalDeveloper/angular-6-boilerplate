@@ -1,6 +1,6 @@
 # Quickstart
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
+This project is a Angular 6+ boiler plate for the production level app.
 
 ## Development server
 
