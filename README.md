@@ -1,6 +1,6 @@
 # Quickstart
 
-This project is a Angular 6+ boiler plate for the production level app.
+This project is an Angular 6+ boiler plate for the production level app.
 
 ## Development server
 
